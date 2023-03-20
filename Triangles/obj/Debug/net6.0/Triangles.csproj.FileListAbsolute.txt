@@ -1,0 +1,15 @@
+/Users/baptiald/Projects/Triangles/Triangles/bin/Debug/net6.0/Triangles
+/Users/baptiald/Projects/Triangles/Triangles/bin/Debug/net6.0/Triangles.deps.json
+/Users/baptiald/Projects/Triangles/Triangles/bin/Debug/net6.0/Triangles.runtimeconfig.json
+/Users/baptiald/Projects/Triangles/Triangles/bin/Debug/net6.0/Triangles.dll
+/Users/baptiald/Projects/Triangles/Triangles/bin/Debug/net6.0/Triangles.pdb
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.csproj.AssemblyReference.cache
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.AssemblyInfoInputs.cache
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.AssemblyInfo.cs
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.csproj.CoreCompileInputs.cache
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.dll
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/refint/Triangles.dll
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.pdb
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/Triangles.genruntimeconfig.cache
+/Users/baptiald/Projects/Triangles/Triangles/obj/Debug/net6.0/ref/Triangles.dll
